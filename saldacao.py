@@ -1,8 +1,8 @@
 def saudacao(nome):
-<<<<<<< HEAD
 return f'tenha um otimo final de semana, {nome}
-=======
- return f'Bom dia, {nome}
->>>>>>> saudacao
+
+def soma(n1,n2):
+ resultado = n1 + n2
+ return(resultado)
 
 print(saudacao('Felipe'))
